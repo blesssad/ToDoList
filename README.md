@@ -1,5 +1,5 @@
 # ToDoList
-- ___Запуск frontend___
+##Запуск frontend
 
 ```
 cd frontend
