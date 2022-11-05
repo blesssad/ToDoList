@@ -3,8 +3,6 @@
 
 ```
 cd frontend
-```
 
-```
 npm start
 ```
